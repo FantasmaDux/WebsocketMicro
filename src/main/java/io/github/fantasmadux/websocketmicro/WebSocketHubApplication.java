@@ -1,4 +1,4 @@
-package io.github.pavelshe11.websockethub;
+package io.github.fantasmadux.websocketmicro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

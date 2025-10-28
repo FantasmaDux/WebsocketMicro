@@ -1,4 +1,4 @@
-package io.github.pavelshe11.websockethub.config;
+package io.github.fantasmadux.websocketmicro.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.context.annotation.Configuration;

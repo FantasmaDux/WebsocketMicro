@@ -1,4 +1,4 @@
-package io.github.pavelshe11.websockethub.api.server.controller;
+package io.github.fantasmadux.websocketmicro.api.server.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

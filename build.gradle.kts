@@ -4,9 +4,9 @@ plugins {
     id("io.spring.dependency-management") version "1.1.7"
 }
 
-group = "io.github.pavelshe11"
+group = "io.github.fantasmadux"
 version = "0.0.1-SNAPSHOT"
-description = "WebSocketHub"
+description = "WebsocketMicro"
 
 java {
     toolchain {

@@ -1,4 +1,4 @@
-package io.github.pavelshe11.websockethub;
+package io.github.fantasmadux.websocketmicro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

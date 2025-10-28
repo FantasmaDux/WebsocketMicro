@@ -1,4 +1,4 @@
-package io.github.pavelshe11.websockethub.api.exceptions;
+package io.github.fantasmadux.websocketmicro.api.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.client.HttpStatusCodeException;
